@@ -1,0 +1,38 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "A node app that gives the metadata of the file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somanath08/File-Metadata.git"
+  },
+  "keywords": [
+    "express",
+    "freecodecamp",
+    "nodejs",
+    "file-metadata"
+  ],
+  "author": "Sai Somanath Komanduri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/somanath08/File-Metadata/issues"
+  },
+  "homepage": "https://github.com/somanath08/File-Metadata#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "multer": "^1.3.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.0",
+    "eslint-plugin-react": "^7.10.0"
+  }
+}
